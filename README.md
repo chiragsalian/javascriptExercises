@@ -1,2 +1,2 @@
 # javascriptExercises
-Basic javascript exercises for beginners
+Basic javascript exercises for beginners test
